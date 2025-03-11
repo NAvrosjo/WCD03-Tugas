@@ -1,5 +1,3 @@
-# WCD03-Tugas
- daftar tugas WCD (testing)
+# WCD03-Tugas1
+24130500010-Fajar Dwiharjo-WDC03
 
-
-coba coba
