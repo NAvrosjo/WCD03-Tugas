@@ -1,7 +1,7 @@
 # WCD03-Tugas1
 24130500010-Fajar Dwiharjo-WDC03
 
-![alt text](<d:/KULIAH/smester 2/matkul/WCD/tugas 1/WhatsApp Image 2025-03-12 at 21.57.02_51128a69.jpg>)
+![alt text](<asset/WhatsApp Image 2025-03-12 at 21.57.02_51128a69.jpg>)
 
 Task Overview
 
